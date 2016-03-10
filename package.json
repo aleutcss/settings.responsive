@@ -1,5 +1,6 @@
 {
-  "name": "@aleut/settings.responsive",
+  "name": "aleut.settings.responsive"
+,
   "version": "1.0.0",
   "description": "Responsive settings for the aleutcss framework (based on Harry Roberts inuitcss framework)",
   "main": "_settings.responsive.scss",

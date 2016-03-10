@@ -19,5 +19,6 @@ This SASS-maps is looped trough in [utilities.width-responsive](https://github.c
 ## Install using npm:
 
 ~~~ssh
-    $ npm install --save-dev @aleut/responsive-settings
+    $ npm install --save-dev aleut.responsive-settings
+
 ~~~
